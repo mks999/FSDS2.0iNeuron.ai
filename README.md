@@ -1,2 +1,2 @@
-# FSDS2.0iNeuron.ai
-All assignment solutions, Projects, Capstones and other related material of FSDS Bootcamp 2.0 course from iNeuron.ai are uploaded here. 
+# Python-Basic-Assignments-FSDS2.0iNeuron.ai
+All Python Basic Assignments solutions FSDS Bootcamp 2.0 course from iNeuron.ai are uploaded here. 
